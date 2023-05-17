@@ -1,0 +1,3 @@
+É um modelo de dados relativamente simples e talvez funcional dependendo da necessidade do usuário. Digo talvez pois existem erros de nomenclatura, falta de padronização em relação a isso. E também falta de revisão em relação aos tipos de cada coluna (Se é VARCHAR, CHAR, INTEGER, etc.)
+
+Outras melhorias e opiniões na questão 3.

@@ -1,0 +1,9 @@
+1 - Na tabela "DM_TEMPO", não é possível fazer uma consulta com a coluna "DATA" INTEGER, sendo assim trocaria para o tipo "DATA".
+
+2 - Na tabela "FT_VENDAS", a coluna "RECEITA_VENDA" está como DECIMAL, e no arquivo .CSV tem o cifrão $, sendo assim devemos tirar pois não pode haver textos em coluna decimal, e também não tem a necessidade, mesmo se fosse VARCHAR.
+
+3 - Acredito que poderia melhorar no nome das colunas, padronizando um estilo de letras, deixando tudo minúsculo.
+
+4 - Existem algumas colunas com acentos (~, ç, ^), o que também não deve acontecer.
+
+5 - É um modelo de dados básico para um e-commerce, dependendo da necessidade do sistema devem existir ainda mais tabelas e colunas.
